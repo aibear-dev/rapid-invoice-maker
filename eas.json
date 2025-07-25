@@ -11,5 +11,8 @@
       "developmentClient": false,
       "distribution": "store"
     }
+  },
+  "submit": {
+    "production": {}
   }
 }
